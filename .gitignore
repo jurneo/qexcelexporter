@@ -1,0 +1,8 @@
+*.[oa]
+release
+debug
+*.ncb
+*.pdb
+*.idb
+*.user
+
